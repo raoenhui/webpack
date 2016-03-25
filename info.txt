@@ -1,1 +1,5 @@
 http://webpack.github.io/docs/tutorials/getting-started/
+
+https://github.com/webpack/webpack
+
+https://github.com/webpack/docs/tree/master/tutorials/getting-started
